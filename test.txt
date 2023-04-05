@@ -1,3 +1,5 @@
 This is our Git repo on the ubuntu serve
 
 This is the new change which is for second commit
+
+We have made some new changes into this file
